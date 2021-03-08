@@ -1,0 +1,24 @@
+{
+  "name": "import-http-demo",
+  "version": "1.0.0",
+  "description": "a demo for import-http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StepToTop/import-http-demo.git"
+  },
+  "author": "lynch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StepToTop/import-http-demo/issues"
+  },
+  "homepage": "https://github.com/StepToTop/import-http-demo#readme",
+  "devDependencies": {
+    "import-http": "^0.3.1",
+    "webpack": "^4.29.0",
+    "webpack-cli": "^3.2.1"
+  }
+}
